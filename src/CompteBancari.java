@@ -95,7 +95,7 @@ public class CompteBancari {
         }
         return resultat;
     }
-    public void saludo2(){
+    public void saludo(){
         System.out.println("Hola");
     }
 }
