@@ -98,4 +98,8 @@ public class CompteBancari {
     public void saludo(){
         System.out.println("Hola");
     }
+    
+    public void holaalex(){
+        System.out.println("Hola Alex.");
+    }
 }
